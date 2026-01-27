@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mouhanned
 
-<!--
-**Sghaier04Mouhanned/Sghaier04Mouhanned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science and AI enthusiast with a strong interest in building practical, real-world solutions.
 
-Here are some ideas to get you started:
+I focus on learning by doing and working on projects that turn ideas into useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Data science and machine learning  
+- Artificial intelligence systems  
+- Problem solving and optimization  
+- AI for education and productivity  
+
+## Skills
+- Data analysis and modeling  
+- Machine learning fundamentals  
+- Working with structured and unstructured data  
+- Experimentation and iterative improvement  
+- Project-based learning  
+
+Feel free to explore my repositories and follow my progress.
