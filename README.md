@@ -140,7 +140,7 @@ YOLO-based real-time object detection model for crop disease classification, wit
 ## 📊 Contribution Activity
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sghaier04Mouhanned&theme=react-dark&bg_color=0D0B1A&color=6FB7FF&line=6FB7FF&point=F5E9E2&area=true&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/6FB7FF/Sghaier04Mouhanned"/>
 </div>
 
 <div align="center">
