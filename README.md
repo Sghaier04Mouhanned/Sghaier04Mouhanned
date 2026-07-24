@@ -133,26 +133,8 @@ YOLO-based real-time object detection model for crop disease classification, wit
 - 🎓 **Udemy** — AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents (2025)
 - 🎓 **Udemy** — AI Engineer Agentic Track: Agent Systems & MCP (2026)
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:2E4A7A&height=3&section=header"/>
 
-## 📊 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://ghchart.rshah.org/6FB7FF/Sghaier04Mouhanned"/>
-</div>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sghaier04Mouhanned&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=6FB7FF&text_color=F5E9E2"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sghaier04Mouhanned&theme=radical&hide_border=true&background=0D0B1A&ring=6FB7FF&fire=6FB7FF&currStreakLabel=F5E9E2"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-*"落ち着いて、着実に。"* — steady progress beats sudden bursts.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2A4A,50:2E4A7A,100:6FB7FF&height=100&section=footer"/>
 
