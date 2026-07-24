@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2A4A,50:6B4E8E,100:C97B9C&height=220&section=header&text=Mouhanned%20Sghaier&fontSize=48&fontColor=F5E9E2&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Building%20Agentic%20Systems&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2A4A,50:2E4A7A,100:6FB7FF&height=220&section=header&text=Mouhanned%20Sghaier&fontSize=48&fontColor=F5E9E2&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Building%20Agentic%20Systems&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-<a href="https://www.linkedin.com/in/mouhanned-sghaier-1528882a1/"><img src="https://img.shields.io/badge/LinkedIn-2C2A4A?style=for-the-badge&logo=linkedin&logoColor=C97B9C" /></a>
-<a href="mailto:Mouhannedsghaier2004@gmail.com"><img src="https://img.shields.io/badge/Email-2C2A4A?style=for-the-badge&logo=gmail&logoColor=C97B9C" /></a>
-<a href="https://github.com/Sghaier04Mouhanned"><img src="https://img.shields.io/badge/GitHub-2C2A4A?style=for-the-badge&logo=github&logoColor=C97B9C" /></a>
+<a href="https://www.linkedin.com/in/mouhanned-sghaier-1528882a1/"><img src="https://img.shields.io/badge/LinkedIn-2C2A4A?style=for-the-badge&logo=linkedin&logoColor=6FB7FF" /></a>
+<a href="mailto:Mouhannedsghaier2004@gmail.com"><img src="https://img.shields.io/badge/Email-2C2A4A?style=for-the-badge&logo=gmail&logoColor=6FB7FF" /></a>
+<a href="https://github.com/Sghaier04Mouhanned"><img src="https://img.shields.io/badge/GitHub-2C2A4A?style=for-the-badge&logo=github&logoColor=6FB7FF" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=C97B9C&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions%2C+one+model+at+a+time.;LangGraph+%7C+RAG+%7C+Computer+Vision+%7C+LLM+Agents;Ben+Arous%2C+Tunisia+%F0%9F%8C%B8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=6FB7FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions%2C+one+model+at+a+time.;LangGraph+%7C+RAG+%7C+Computer+Vision+%7C+LLM+Agents;Ben+Arous%2C+Tunisia+%F0%9F%8C%B8"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:6B4E8E&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:2E4A7A&height=3&section=header"/>
 
 ## 🌸 About Me
 
@@ -27,7 +27,7 @@ I'm an **AI Engineer & Data Scientist** currently studying Business Analytics at
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B4E8E,100:2C2A4A&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A7A,100:2C2A4A&height=3&section=header"/>
 
 ## ⚔️ Tech Arsenal
 
@@ -35,32 +35,32 @@ I'm an **AI Engineer & Data Scientist** currently studying Business Analytics at
 
 **AI & ML**
 <br/>
-<img src="https://img.shields.io/badge/Deep%20Learning-2C2A4A?style=flat-square&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/NLP-2C2A4A?style=flat-square&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-2C2A4A?style=flat-square&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/RAG-2C2A4A?style=flat-square&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/LangGraph-2C2A4A?style=flat-square&logoColor=C97B9C"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-2C2A4A?style=flat-square&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/NLP-2C2A4A?style=flat-square&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2C2A4A?style=flat-square&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/RAG-2C2A4A?style=flat-square&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/LangGraph-2C2A4A?style=flat-square&logoColor=6FB7FF"/>
 
 **Frameworks & Tools**
 <br/>
-<img src="https://img.shields.io/badge/Python-2C2A4A?style=for-the-badge&logo=python&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/TensorFlow-2C2A4A?style=for-the-badge&logo=tensorflow&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/PyTorch-2C2A4A?style=for-the-badge&logo=pytorch&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Keras-2C2A4A?style=for-the-badge&logo=keras&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Scikit--learn-2C2A4A?style=for-the-badge&logo=scikit-learn&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/FastAPI-2C2A4A?style=for-the-badge&logo=fastapi&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Next.js-2C2A4A?style=for-the-badge&logo=next.js&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/LangChain-2C2A4A?style=for-the-badge&logo=chainlink&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Docker-2C2A4A?style=for-the-badge&logo=docker&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/AWS-2C2A4A?style=for-the-badge&logo=amazonaws&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/SQL-2C2A4A?style=for-the-badge&logo=postgresql&logoColor=C97B9C"/>
-<img src="https://img.shields.io/badge/Git-2C2A4A?style=for-the-badge&logo=git&logoColor=C97B9C"/>
+<img src="https://img.shields.io/badge/Python-2C2A4A?style=for-the-badge&logo=python&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-2C2A4A?style=for-the-badge&logo=tensorflow&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/PyTorch-2C2A4A?style=for-the-badge&logo=pytorch&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Keras-2C2A4A?style=for-the-badge&logo=keras&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Scikit--learn-2C2A4A?style=for-the-badge&logo=scikit-learn&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/FastAPI-2C2A4A?style=for-the-badge&logo=fastapi&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Next.js-2C2A4A?style=for-the-badge&logo=next.js&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/LangChain-2C2A4A?style=for-the-badge&logo=chainlink&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Docker-2C2A4A?style=for-the-badge&logo=docker&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/AWS-2C2A4A?style=for-the-badge&logo=amazonaws&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/SQL-2C2A4A?style=for-the-badge&logo=postgresql&logoColor=6FB7FF"/>
+<img src="https://img.shields.io/badge/Git-2C2A4A?style=for-the-badge&logo=git&logoColor=6FB7FF"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:6B4E8E&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:2E4A7A&height=3&section=header"/>
 
 ## 🗡️ Featured Projects
 
@@ -124,7 +124,7 @@ YOLO-based real-time object detection model for crop disease classification, wit
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B4E8E,100:2C2A4A&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A7A,100:2C2A4A&height=3&section=header"/>
 
 ## 📜 Certifications
 
@@ -135,17 +135,17 @@ YOLO-based real-time object detection model for crop disease classification, wit
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:6B4E8E&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C2A4A,100:2E4A7A&height=3&section=header"/>
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sghaier04Mouhanned&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=C97B9C&icon_color=C97B9C&text_color=F5E9E2"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sghaier04Mouhanned&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=C97B9C&text_color=F5E9E2"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sghaier04Mouhanned&theme=react-dark&bg_color=0D0B1A&color=6FB7FF&line=6FB7FF&point=F5E9E2&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sghaier04Mouhanned&theme=radical&hide_border=true&background=0D0B1A&ring=C97B9C&fire=C97B9C&currStreakLabel=F5E9E2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sghaier04Mouhanned&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=6FB7FF&text_color=F5E9E2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sghaier04Mouhanned&theme=radical&hide_border=true&background=0D0B1A&ring=6FB7FF&fire=6FB7FF&currStreakLabel=F5E9E2"/>
 </div>
 
 <br/>
@@ -154,6 +154,6 @@ YOLO-based real-time object detection model for crop disease classification, wit
 
 *"落ち着いて、着実に。"* — steady progress beats sudden bursts.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2A4A,50:6B4E8E,100:C97B9C&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2A4A,50:2E4A7A,100:6FB7FF&height=100&section=footer"/>
 
 </div>
