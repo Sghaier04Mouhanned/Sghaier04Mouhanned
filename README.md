@@ -96,18 +96,6 @@ Helps Tunisian students with CV optimization, ATS scoring, and semantic job matc
 <tr>
 <td width="50%" valign="top">
 
-### 🌙 SchedAI
-**Automated Schedule Extraction Agent**
-<br/>Personal Project — 2026
-
-LangGraph-powered scheduling agent that automates university timetable generation across academic years — multi-source ingestion, constraint-based conflict resolution, and preference-aware weekly schedules.
-
-`Python` `OCR/DPT` `LandingAI ADE` `Pydantic`
-
-[**View Repo →**](https://github.com/Sghaier04Mouhanned/SchedAI)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🍃 Crop Disease Detection
 **Computer Vision · Zindi Competition** — 2024
