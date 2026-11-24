@@ -22,7 +22,7 @@ studying: Business Analytics @ Tunis Business School
 obsessed_with: [AI Agents, RAG, MCP, backend orchestration]
 ```
 
-I'm an AI Engineer who loves turning messy real-world input (a photo, a CV, raw data) into structured, shippable output. Previously a Fullstack AI Engineer Intern at Kamka IT, now focused full-time on my own AI agent projects, **LLM orchestration**, and the **Model Context Protocol (MCP)**. Outside of code: anime, gym, and gaming.
+I'm an AI Engineer who loves turning messy real-world input into structured, shippable output. Previously a Data Scientist, now focused full-time on my own AI agent projects, **LLM orchestration**, and the **Model Context Protocol (MCP)**. Outside of code: anime, gym, and gaming.
 
 ---
 
@@ -45,17 +45,7 @@ I'm an AI Engineer who loves turning messy real-world input (a photo, a CV, raw 
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🚗 **[SMART SINISTRA](https://github.com/)** | Insurance SaaS with ML accident risk scoring, YOLOv8 damage detection & AI policy assistant — built for Hackathon Dauphine × EY |
-| 📅 **[Kumi](https://github.com/)** | Turns a photo of a university timetable into a working schedule using Gemini Vision, Groq & backtracking search |
-| 💼 **[Ekbes AI Career Agent](https://github.com/)** | AI career companion: CV optimization, ATS scoring & semantic job matching via LangGraph + Groq |
-| 🌱 **[Zindi Crop Disease Detection](https://github.com/)** | YOLOv8-based real-time crop disease detection & classification |
-
-
----
 
 
 
